@@ -1,2 +1,3 @@
 "This line adds new feature for Feature branch" 
-"This line adds additional feature for Feature branch" 
+"This line adds additional feature for Feature branch"
+Feature 3 added to Feature branch
