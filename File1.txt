@@ -3,3 +3,4 @@ SS> This line adds additional feature for Feature branch
 SS> New Feature added in Master branch
 SS> This line adds additional feature for Feature branch
 SS> Feature 3 added to Feature branch
+SS> New Line added to demonstrate Azure Boards-GitHub Integration
