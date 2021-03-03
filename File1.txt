@@ -1,2 +1,4 @@
 "This line adds new feature for Feature branch" 
 "This line adds additional feature for Feature branch" 
+
+New Feature added in Master branch
